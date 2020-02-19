@@ -1,6 +1,9 @@
+body{
+	background-color: #006837
+}
 .background{
-	background-color: #56836F;
-	background-color: #006837;
+	background-color: #006837
+}
 
 }
 li {
@@ -21,18 +24,9 @@ li {
 	padding-top: 50px;
 }
  p{ font-size:18px;
- 	
- 
  	line-height:24px 
  }
-colour{
-	background-color: #F6E715;
-	
-}
 
-color{
-	background-color: #F6E715;
-	color: green
  }
  img{
  	width:150px;
