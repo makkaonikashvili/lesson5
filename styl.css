@@ -5,24 +5,71 @@
 }
 li {
 	display: inline-block;
-	width: 200px;
+	width: 100px;
 	font-size:22px;
-	color:  white
+	color:  white;
+	float: right;
 }
-p{
-	font-size: 14px
+.logo{
+	width: 200px;
 
 }
+
 .margin{
 	margin-bottom: 150px;
 	margin-top: 10px;
 	padding-top: 50px;
 }
-.colour{
+ p{ font-size:18px;
+ 	
+ 
+ 	line-height:24px 
+ }
+colour{
 	background-color: #F6E715;
-	margin-bottom: 30px
+	
 }
 
-.color{
-	background-color: #F6E715
+color{
+	background-color: #F6E715;
+	color: green
+ }
+ img{
+ 	width:150px;
+ 	
+ }
+ 
+ .float-img{
+ 	float: right;
+ 	margin: 10px
+
+ 	
+ }
+ .float{
+ 	float: left;
+ 	margin: 10px
+ 	
+ }
+ .float-box-right{
+ 	float: right;
+ 	width: 100px
+
+ }
+ .float-box-left{
+ 	float: left;
+ 	width: 100px
+
+ }
+ .clear{
+ 	background-color: #F6E715;
+
+ }
+ .clearr{
+ 	background-color: #F6E715;
+ }
+ .font1{
+
+ }
+ .font2{
+
  }
