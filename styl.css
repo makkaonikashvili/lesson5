@@ -1,9 +1,28 @@
 .background{
 	background-color: #56836F;
-	background-color: #006837
+	background-color: #006837;
+
 }
 li {
 	display: inline-block;
 	width: 200px;
 	font-size:22px;
 	color:  white
+}
+p{
+	font-size: 14px
+
+}
+.margin{
+	margin-bottom: 150px;
+	margin-top: 10px;
+	padding-top: 50px;
+}
+.colour{
+	background-color: #F6E715;
+	margin-bottom: 30px
+}
+
+.color{
+	background-color: #F6E715
+ }
