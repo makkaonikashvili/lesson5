@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'RobotoCondensed-Bold';
+  src: url('../fonts/RobotoCondensed-Bold.eot');
+  src: url('../fonts/RobotoCondensed-Bold.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/RobotoCondensed-Bold.svg#RobotoCondensed-Bold') format('svg'),
+       url('../fonts/RobotoCondensed-Bold.woff') format('woff'),
+       url('../fonts/RobotoCondensed-Bold.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'PlayfairDisplay-SemiBoldItalic';
+  src: url('../fonts/PlayfairDisplay-SemiBoldItalic.eot');
+  src: url('../fonts/PlayfairDisplay-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/PlayfairDisplay-SemiBoldItalic.svg#PlayfairDisplay-SemiBoldItalic') format('svg'),
+       url('../fonts/PlayfairDisplay-SemiBoldItalic.woff') format('woff'),
+       url('../fonts/PlayfairDisplay-SemiBoldItalic.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}

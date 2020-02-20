@@ -9,6 +9,7 @@ body{
  li {
 	display: inline-block;
 	width: 200px;
+	font-family: 'RobotoCondensed-Bold';
 	font-size:22px;
 	color:  white;
 	float: right;
@@ -31,7 +32,8 @@ body{
 	margin-top: 10px;
 	padding-top: 50px;
 }
- p{ font-size:18px;
+ p{font-family: 'PlayfairDisplay-SemiBoldItalic';
+  font-size:18px;
  	line-height:24px 
  }
 
@@ -69,9 +71,6 @@ body{
  .clearr{
  	background-color: #F6E715;
  }
- .font1{
-
- }
  .font2{
-
+ 	color:green
  }
